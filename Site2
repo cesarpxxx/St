@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saia da CLT e Monte sua Empresa de Higienização</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000;
+            color: #fff;
+        }
+        header {
+            background-color: #000;
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            color: #FFD700;
+            font-size: 40px;
+        }
+        header p {
+            font-size: 18px;
+            color: #fff;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #FFD700;
+            color: #000;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            margin-top: 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #ffcc00;
+        }
+        .section {
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .section h2 {
+            font-size: 30px;
+            color: #FFD700;
+        }
+        .section p {
+            font-size: 18px;
+            color: #fff;
+            margin-top: 20px;
+        }
+        .testimonial {
+            margin-top: 30px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .testimonial div {
+            width: 30%;
+            margin: 10px;
+            background-color: #333;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .testimonial p {
+            font-size: 16px;
+            color: #fff;
+        }
+        .testimonial h4 {
+            color: #FFD700;
+            margin-top: 10px;
+        }
+        .footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .footer a {
+            color: #FFD700;
+            text-decoration: none;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Saia da CLT e Monte sua Empresa de Higienização</h1>
+        <p>Descubra como sair da rotina de trabalho e começar a faturar no mínimo 10k mensais com o mercado de higienização.</p>
+        <a href="https://wa.me/5599985066999" class="cta-button">Quero Saber Mais!</a>
+    </header>
+
+    <!-- Seção 1 - Apresentação do Ebook -->
+    <div class="section">
+        <h2>Transforme Sua Vida Com o Ebook e Consultoria</h2>
+        <p>Aprenda tudo sobre como iniciar sua própria empresa de higienização e conquistar uma renda de 10k mensais com nosso material completo. A consultoria personalizada te ajudará a alcançar seus objetivos mais rápido.</p>
+        <a href="https://wa.me/5599985066999" class="cta-button">Adquira o Ebook Agora!</a>
+    </div>
+
+    <!-- Seção 2 - Depoimentos -->
+    <div class="section">
+        <h2>Histórias de Sucesso</h2>
+        <div class="testimonial">
+            <div>
+                <p>"Eu ganhava muito pouco na CLT e decidi investir no ebook. Hoje, tenho meu próprio negócio e faturei mais de 15k no meu primeiro mês!"</p>
+                <h4>João Silva</h4>
+            </div>
+            <div>
+                <p>"A consultoria me ajudou a planejar minha empresa de higienização de maneira estratégica. Em 3 meses, meu faturamento já passou dos 10k!"</p>
+                <h4>Maria Oliveira</h4>
+            </div>
+            <div>
+                <p>"Nunca imaginei que poderia ganhar tanto fora da CLT. O ebook me deu as ferramentas certas para começar meu negócio do zero."</p>
+                <h4>Felipe Souza</h4>
+            </div>
+        </div>
+    </div>
+
+    <!-- Seção 3 - Call to Action Final -->
+    <div class="section">
+        <h2>Está Pronto para Mudar Sua Vida?</h2>
+        <p>Não perca mais tempo, comece agora mesmo sua jornada para a liberdade financeira! Com o nosso ebook e consultoria, você está a um passo de alcançar o sucesso.</p>
+        <a href="https://wa.me/5599985066999" class="cta-button">Comece Agora!</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p>© 2025 - Todos os direitos reservados. <br> Entre em contato pelo <a href="https://wa.me/5599985066999">WhatsApp</a> para mais informações.</p>
+    </div>
+
+</body>
+</html>
